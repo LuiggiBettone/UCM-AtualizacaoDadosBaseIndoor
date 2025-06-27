@@ -1,4 +1,3 @@
-```markdown
 # Script de Atualização Automática de Camadas BaseIndoor com Field Maps
 
 ## 🚀 Introdução
